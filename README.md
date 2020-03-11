@@ -1,5 +1,3 @@
-# a1-s3733170-s3705430
-
 Title: 
 Internet Banking Console Application
 
